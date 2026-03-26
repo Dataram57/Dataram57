@@ -1,13 +1,21 @@
 # Welcome to my git profile!
 
-Now repeat:
+Your situation now:
 ```
-           🐍
-      🕯️        🕯️
-Oh, all mighty Dataram57
-bless me with cool repos
-In exchange I give stars
-and follow thee forever
+|==========================|
+|           👑             |
+|           🐍             |
+|      🕯️        🕯️        |
+|           📖             |
+|                          |
+| Oh, all mighty Dataram57 |
+| bless me with cool repos |
+| In exchange I give stars |
+| and follow thee forever. |
+|                          |
+| Do you accept the deal?  |
+|  --> [YES]     [NO]      |
+|==========================|
 ```
 
 ### Links:
